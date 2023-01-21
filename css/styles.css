@@ -392,7 +392,7 @@ img {
 }
 
 .customers-item {
-  width: calc((100%-5 * (var(--gap_between_img))) / 6);
+  width: calc((100% - 5 * (var(--gap_between_img))) / 6);
   height: 88px;
 }
 .customers-link {
